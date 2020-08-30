@@ -1,12 +1,13 @@
-#	Solving the One Dimensional Schroedinger Equation numerically 
-#   Potential :   Harmonic Oscillator : V(x) = x**2
-#   Aniruddha Seal, 
-#	School of Chemical Sciences, NISER Bhubaneswar
-#
-#	Last Modified: August 29, 2020
-#	For any queries regarding usage of the script please feel free to contact me on 
-#   aniruddhaseal2011@gmail.com, aniruddha.seal@niser.ac.in
+"""
+Solving the One Dimensional Schroedinger Equation numerically 
+Potential :   Harmonic Oscillator : V(x) = x**2
+author@ Aniruddha Seal, 
+School of Chemical Sciences, NISER Bhubaneswar
 
+Last Modified: August 29, 2020
+For any queries regarding usage of the script please feel free to contact me on 
+aniruddhaseal2011@gmail.com, aniruddha.seal@niser.ac.in
+"""
 """
 Load the required packages
 """
