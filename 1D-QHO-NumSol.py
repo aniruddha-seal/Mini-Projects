@@ -1,7 +1,7 @@
 """
 Solving the One Dimensional Schroedinger Equation numerically 
 Potential :   Harmonic Oscillator : V(x) = x**2
-author@ Aniruddha Seal, 
+Aniruddha Seal, 
 School of Chemical Sciences, NISER Bhubaneswar
 
 Last Modified: August 29, 2020
